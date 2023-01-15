@@ -142,6 +142,10 @@ final bool horizontalSwipe;
 final bool verticalSwipe;
 ```
 
-## Author
+## Original Author
 
 Loïc Combis (combis.loic@gmail.com)
+
+## Fixed By 
+
+PandaStudios (https://github.com/PandaStudiosSWE)
